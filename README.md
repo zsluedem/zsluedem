@@ -28,6 +28,10 @@ I'm WillQ. I am a full stack developer. Currently I am working on web3 developme
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D)
 ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=AEDDFF)
 
+### Recent Activities
+
+<!--START_SECTION:activity-->
+
 ### Github stats
 
 [![Willq's GitHub stats](https://github-readme-stats.vercel.app/api?username=zsluedem)](https://github.com/anuraghazra/github-readme-stats)
