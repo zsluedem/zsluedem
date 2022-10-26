@@ -28,19 +28,6 @@ I'm WillQ. I am a full stack developer. Currently I am working on web3 developme
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D)
 ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=AEDDFF)
 
-### Recent Activities
-
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#449](https://github.com/move-language/move/issues/449) in [move-language/move](https://github.com/move-language/move)
-2. 🗣 Commented on [#336](https://github.com/move-language/move/issues/336) in [move-language/move](https://github.com/move-language/move)
-3. 🗣 Commented on [#257](https://github.com/move-language/move/issues/257) in [move-language/move](https://github.com/move-language/move)
-4. 🗣 Commented on [#3235](https://github.com/sigp/lighthouse/issues/3235) in [sigp/lighthouse](https://github.com/sigp/lighthouse)
-5. ❌ Closed PR [#117](https://github.com/rchain/rchain-testnet-node/pull/117) in [rchain/rchain-testnet-node](https://github.com/rchain/rchain-testnet-node)
-<!--END_SECTION:activity-->
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 ### Github stats
 
 [![Willq's GitHub stats](https://github-readme-stats.vercel.app/api?username=zsluedem)](https://github.com/anuraghazra/github-readme-stats)
