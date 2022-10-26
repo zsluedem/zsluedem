@@ -2,7 +2,16 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=zsluedem.zsluedem)
 
-I'm WillQ. I am a full stack developer. Currently I am working on web3 development. 
+I'm WillQ. I am a full stack developer.
+
+🔭 I’m currently working on building awesome dapp on Web3.
+
+🌱 I’m currently learning [Move language](https://github.com/move-language/move) and zero knowledge proof.
+
+💬 Ask me about Rust, Scala, Python, Web3.
+
+📫 How to reach me [Issue](https://github.com/zsluedem/zsluedem/issues/new) and [Twitter](https://twitter.com/zsluedem06)
+
 
 ### My tech stack
 
