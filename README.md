@@ -20,7 +20,7 @@ I'm WillQ. I am a full stack developer. Currently I am working on web3 developme
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
 
-### Framework
+#### Framework
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat-square&logo=mui&logoColor=white)
@@ -37,6 +37,9 @@ I'm WillQ. I am a full stack developer. Currently I am working on web3 developme
 4. 🗣 Commented on [#3235](https://github.com/sigp/lighthouse/issues/3235) in [sigp/lighthouse](https://github.com/sigp/lighthouse)
 5. ❌ Closed PR [#117](https://github.com/rchain/rchain-testnet-node/pull/117) in [rchain/rchain-testnet-node](https://github.com/rchain/rchain-testnet-node)
 <!--END_SECTION:activity-->
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ### Github stats
 
