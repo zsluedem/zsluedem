@@ -4,11 +4,19 @@
 
 I'm WillQ. I am a full stack developer. I am now a participant in [Ethereum Protocol Fellowship](https://github.com/eth-protocol-fellows/). I love compiler engineering and used to contribute to [Monkey-rust](https://github.com/Rydgel/monkey-rust) and [Rholang](https://rholang.github.io/docs/rholang/).
 
-🔭 I’m currently working on building [Rust EIP-4337 bundler](https://github.com/Vid201/aa-bundler/) and researching [compile EVM bytescode to MSIL-assembly](https://github.com/NethermindEth/nethermind/pull/3888#discussion_r1022296157).
+🔭 I’m currently working on building [Rust EIP-4337 bundler](https://github.com/Vid201/aa-bundler/).
 
-💬 Ask me about Rust, Scala, Python, Ethereum.
+💬 Ask me about Rust, Scala, Python, Ethereum, GameFi, Defi, NTFs.
 
 📫 How to reach me [Issue](https://github.com/zsluedem/zsluedem/issues/new) and [Twitter](https://twitter.com/zsluedem06)
+
+### TODO List
+
+1. Finish [aa-bundler](https://github.com/Vid201/aa-bundler/) initial version and run in goerli network
+2. Create Halfchilld Technology homepage.
+3. ETH monitoring tools
+4. Move language developement
+5. Self assistant of GPT
 
 
 ### My tech stack
