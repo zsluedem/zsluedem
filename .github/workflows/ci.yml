@@ -11,4 +11,6 @@ jobs:
     name: Rust Project
     runs-on: ubuntu-latest
     steps:
-      run: ls
+      - name: Run ls
+        run: | 
+          ls
