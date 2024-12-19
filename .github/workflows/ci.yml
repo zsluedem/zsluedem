@@ -1,0 +1,14 @@
+name: CI
+
+on:
+  push:
+    branches:
+      - dev
+  pull_request:
+
+jobs:
+  build-rust:
+    name: Rust Project
+    runs-on: ubuntu-latest
+    steps:
+      run: ls
