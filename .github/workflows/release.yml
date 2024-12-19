@@ -7,10 +7,12 @@ on:
 
 
 jobs:
+  ci:
+    uses: zsluedem/zsluedem/.github/workflows/ci.yml@main
   unit-tests:
     name: Run All Tests
     runs-on: ubuntu-latest
-    needs: [build-rust]
+    needs: [ci]
     steps:
       - uses: actions/checkout@v4
       - run: |
