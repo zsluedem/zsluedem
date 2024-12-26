@@ -15,3 +15,6 @@ jobs:
       - name: Run ls
         run: | 
           ls
+      - name: Run unit tests
+        run: |
+          echo ${{ github.ref }}
