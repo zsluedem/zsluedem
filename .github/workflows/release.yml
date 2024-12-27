@@ -27,12 +27,12 @@ jobs:
       - uses: actions/checkout@v4
       - name: Run unit tests
         run: |
-          echo ${{ matrix.target }} > target.txt
-          echo "\n" >> target.txt
-          echo ${{ github.ref }} >> target.txt
-          echo "\n" >> target.txt
-          echo ${{ github.sha }} >> target.txt
-          echo "\n" >> target.txt
+          echo ${{ matrix.target }} > target-${{ matrix.target }}.txt
+          echo "\n" >> target-${{ matrix.target }}.txt
+          echo ${{ github.ref }} >> target-${{ matrix.target }}.txt
+          echo "\n" >> target-${{ matrix.target }}.txt
+          echo ${{ github.sha }} >> target-${{ matrix.target }}.txt
+          echo "\n" >> target-${{ matrix.target }}.txt
 
       - uses: actions/upload-artifact@v3
         with:
